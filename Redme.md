@@ -1,0 +1,1 @@
+Here's a link to the heroku deployment https://flask-plotly-sqlite.herokuapp.com/
